@@ -1,0 +1,98 @@
+﻿Product,Pet,Type,Cost,Cups/Can,Protein (grams),Fat (grams)
+Ol' Roy Original (Wal-Mart),Dog,Dry,0.22,2.75,66,32
+Pet Pride Chunk Style (kroger),Dog,Dry,0.28,2.75,59,32
+America's Choice Gravy Style (A&P stores),Dog,Dry,0.31,3.00,65,30
+American Fare Adult (Kmart),Dog,Dry,0.36,3.25,68,32
+Safeway Tasty Nuggets (Safeway),Dog,Dry,0.40,2.75,66,29
+Purina Dog Chow,Dog,Dry,0.48,3.00,64,34
+Friskies Alpo Beef Flavored Dinner,Dog,Dry,0.49,2.75,59,38
+Ken-L Ration Gravy Train Beef Flavor,Dog,Dry,0.49,3.00,64,29
+Masters Treat Chunk Style (Albertson's),Dog,Dry,0.50,3.50,66,30
+Purina Hi Pro,Dog,Dry,0.50,2.75,83,33
+Pedigree Mealtime Small Crunchy Bites,Dog,Dry,0.52,2.75,66,35
+Purina Puppy Chow Beef Flavor,Dog,Dry,0.52,2.75,81,32
+Pedigree Puppy,Dog,Dry,0.53,3.00,80,32
+Cycle Senior Custom Fitness,Dog,Dry,0.54,3.00,54,29
+Maxximum Nutrition Lamb & Rice (Wal-Mart),Dog,Dry,0.54,2.50,70,47
+Pet Gold Maintenance (petco),Dog,Dry,0.55,3.00,63,36
+Friskies Come 'n Get It,Dog,Dry,0.56,3.25,66,35
+Cycle Life Custom Fitness,Dog,Dry,0.59,3.25,55,28
+Pro Plan Lamb & rice,Dog,Dry,0.62,2.75,68,45
+purina Fit & Trim,Dog,Dry,0.62,3.50,53,27
+Purina Senior,Dog,Dry,0.62,3.25,53,28
+Authority Lamb Meal & rice Chunk (Petsmart),Dog,Dry,0.65,2.75,62,41
+Iams Chunks,Dog,Dry,0.67,2.50,75,43
+Purina O.N.E. Lamb & Rice,Dog,Dry,0.68,2.50,70,48
+Kibbles 'n Bits 'n Bits 'n Bits,Dog,Dry,0.71,2.75,65,33
+Kibbles 'n Bits Lean,Dog,Dry,0.74,3.00,64,24
+Eukanuba Adult Maintenance,Dog,Dry,0.76,2.75,69,45
+Hill's Science Diet Canine Maintenance,Dog,Dry,0.91,2.50,57,42
+America's Choice Beef Chunks Dinner (A&P stores),Dog,Canned,0.93,2.75,118,60
+American Fare with chunky Beef (Kmart),Dog,Canned,1.08,2.50,86,60
+Ken-L Ration Premium Hearty Chunks in Gravy with Beef,Dog,Canned,1.20,3.50,104,47
+Friskies Alpo Chunky with Beef,Dog,Canned,1.35,2.50,103,70
+Skippy Premium Meaty Chunks in Hearty Beef Gravy,Dog,Canned,1.38,3.25,115,44
+Ol'Roy Hearty Cuts in Gravy with Beef (Wal-Mart),Dog,Canned,1.39,3.50,115,44
+Pedigree Puppy Chicken & Beef Dinner,Dog,Canned,1.41,2.50,91,79
+Cycle Puppy Custom Fitness with Real Beef in Gravy,Dog,Canned,1.45,2.75,99,55
+Pedigree with Chunky Beef,Dog,Canned,1.46,2.50,78,78
+Safeway Select Beef Cuts in Gravy (Safeway),Dog,Canned,1.50,2.75,97,68
+Pet Gold Maintenance (petco),Dog,Canned,1.52,2.25,59,59
+Cycle Adult Custom Fitness with Real Beef Gravy,Dog,Canned,1.55,3.00,92,36
+Friskies Alpo Lean With Beef,Dog,Canned,1.56,3.00,87,44
+Friskies Alpo Prime Cuts in Gravy with Beef,Dog,Canned,1.59,3.00,92,48
+Cycle Senior Custom Fitness with Real Beef in Gravy,Dog,Canned,1.76,3.25,81,33
+Cycle Life Custom Fitness with Real Beef in Gravy,Dog,Canned,1.85,3.50,82,31
+Authority Adult Beef & Rice (Petsmart),Dog,Canned,1.93,2.50,81,39
+Hill's Science Diet Canine Maintenance Beef,Dog,Canned,1.94,2.00,54,42
+Pedigree Choice Cuts in Sauce with Beef,Dog,Canned,1.96,3.25,103,49
+Iams Beef Formula,Dog,Canned,2.23,2.25,88,67
+Hill's Science Diet Light Canine Maintenance,Dog,Canned,2.39,2.50,48,22
+Friskies Mighty Dog Beef,Dog,Canned,2.64,5.25,99,77
+Friskies Mighty Dog Senior Beef & Rice Dinner,Dog,Canned,3.34,6.50,103,62
+"Pedigree Select Dinners Cesar with Beef, small dogs",Dog,Canned,8.34,11.50,134,61
+Alley Cat Poultry & Seafod Flavors,Cat,Dry,0.14,1.50,37,14
+America's Choice Country Meal Flavor (A&P stores),Cat,Dry,0.14,1.25,37,11
+Masters Treat (Albertsons),Cat,Dry,0.14,1.25,37,12
+Cat's Choice (Kroger),Cat,Dry,0.16,1.00,38,12
+Special Kitty Gourmet (Wal-Mart),Cat,Dry,0.17,1.00,37,12
+9 Lives Plus Super Supper Ocean Fish & Crab Flavors,Cat,Dry,0.19,1.00,34,14
+American Fare (Kmart),Cat,Dry,0.20,1.25,38,14
+Kit 'n Kaboodle,Cat,Dry,0.23,1.25,35,14
+Meow Mix,Cat,Dry,0.24,1.25,37,14
+Friskies Special Diet,Cat,Dry,0.25,0.75,32,18
+Friskies Kitten,Cat,Dry,0.26,1.00,42,14
+Purina Cat Chow Original,Cat,Dry,0.26,1.25,38,13
+Purina Kitten Chow,Cat,Dry,0.26,1.50,39,15
+Whiskas Crave Original Recipe,Cat,Dry,0.26,1.00,39,11
+Friskies Ocean Fish Flavor,Cat,Dry,0.27,1.00,35,14
+Pet Gold Maintenance Adult (Petco),Cat,Dry,0.27,0.75,32,21
+Purina Cat Chow Mature,Cat,Dry,0.27,1.50,38,10
+Purina Cat Chow Special Care,Cat,Dry,0.28,1.25,36,16
+Deli-Cat,Cat,Dry,0.29,1.25,39,13
+Friskies Senior,Cat,Dry,0.29,1.25,31,9
+Friskies Chef's Blend,Cat,Dry,0.30,1.00,35,13
+Purina O.N.E. Chicken & Rice,Cat,Dry,0.30,1.25,35,16
+Iams for Normally Active Cats,Cat,Dry,0.40,0.75,33,22
+Pro Plan Natural Turkey & Barley,Cat,Dry,0.40,1.25,35,18
+Hill's Science Diet Feline Maintenance,Cat,Dry,0.45,0.75,28,21
+Eukanuba Lamb & Rice,Cat,Dry,0.60,0.75,35,22
+American Fare Beef & Liver Dinner (Kmart),Cat,Canned,0.52,2.25,36,29
+Purina Tender Beef Dinner,Cat,Canned,0.58,2.25,43,25
+Kal Kan Optimum with Beef,Cat,Canned,0.62,2.50,33,27
+Friskies Alpo with Beef,Cat,Canned,0.65,2.25,45,26
+Special Kitty Beef Slices in Gravy Dinner (Wal-Mart),Cat,Canned,0.68,3.50,56,15
+Whiskas with Bits O' beef,Cat,Canned,0.69,2.25,32,33
+Safeway Select Beef Dinner,Cat,Canned,0.78,2.50,43,28
+America's Choice Beef Slices in Gravy Dinner (A&P Stores),Cat,Canned,0.79,3.25,51,16
+Friskies Special Diet Beef & chicken Entrée,Cat,Canned,0.81,2.50,43,27
+Friskies Senior Savory Beef in Gravy,Cat,Canned,0.84,2.50,45,27
+Friskies Sliced with Beef in Gravy,Cat,Canned,0.85,2.75,59,19
+9 Lives Plus Sliced Beef in Gravy,Cat,Canned,0.88,3.25,49,19
+Pet Gold Beef (Petco),Cat,Canned,1.18,2.25,45,27
+Iams Beef Formula,Cat,Canned,1.27,1.75,38,27
+Amore Quick meals Beef Entrée,Cat,Canned,1.39,4.50,38,25
+Hill's Science Diet Feline Maintenance Beef,Cat,Canned,1.65,2.25,41,24
+Friskies Kitten Mixed Grill,Cat,Canned,1.72,4.50,45,26
+Friskies Fancy Feast Sliced Beef Feast Gourmet,Cat,Canned,2.30,5.25,61,13
+Sheba with Tender Beef in Meaty Juices,Cat,Canned,2.61,4.75,60,22
